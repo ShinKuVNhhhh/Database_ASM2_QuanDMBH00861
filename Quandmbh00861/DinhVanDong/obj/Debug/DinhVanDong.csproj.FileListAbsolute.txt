@@ -1,0 +1,34 @@
+D:\File C#\DinhVanDong\DinhVanDong\bin\Debug\DinhVanDong.exe.config
+D:\File C#\DinhVanDong\DinhVanDong\bin\Debug\DinhVanDong.exe
+D:\File C#\DinhVanDong\DinhVanDong\bin\Debug\DinhVanDong.pdb
+D:\File C#\DinhVanDong\DinhVanDong\obj\Debug\DinhVanDong.csproj.AssemblyReference.cache
+D:\File C#\DinhVanDong\DinhVanDong\obj\Debug\DinhVanDong.Form1.resources
+D:\File C#\DinhVanDong\DinhVanDong\obj\Debug\DinhVanDong.Properties.Resources.resources
+D:\File C#\DinhVanDong\DinhVanDong\obj\Debug\DinhVanDong.csproj.GenerateResource.cache
+D:\File C#\DinhVanDong\DinhVanDong\obj\Debug\DinhVanDong.csproj.CoreCompileInputs.cache
+D:\File C#\DinhVanDong\DinhVanDong\obj\Debug\DinhVanDong.exe
+D:\File C#\DinhVanDong\DinhVanDong\obj\Debug\DinhVanDong.pdb
+D:\File C#\DinhVanDong\DinhVanDong\obj\Debug\DinhVanDong.Departments.resources
+D:\File C#\DinhVanDong\DinhVanDong\obj\Debug\DinhVanDong.Login.resources
+D:\File C#\DinhVanDong\DinhVanDong\obj\Debug\DinhVanDong.Maincs.resources
+D:\File C#\DinhVanDong\DinhVanDong\obj\Debug\DinhVanDong.Course.resources
+D:\File C#\DinhVanDong\DinhVanDong\obj\Debug\DinhVanDong.Instructors.resources
+D:\File C#\DinhVanDong\DinhVanDong\obj\Debug\DinhVanDong.Students.resources
+D:\File C#\DinhVanDong\DinhVanDong\obj\Debug\DinhVanDong.Attendance_Records.resources
+C:\Users\QUAN DO\Desktop\ASM2_Thầy Đông\DinhVanDong\DinhVanDong\bin\Debug\DinhVanDong.exe.config
+C:\Users\QUAN DO\Desktop\ASM2_Thầy Đông\DinhVanDong\DinhVanDong\bin\Debug\DinhVanDong.exe
+C:\Users\QUAN DO\Desktop\ASM2_Thầy Đông\DinhVanDong\DinhVanDong\bin\Debug\DinhVanDong.pdb
+C:\Users\QUAN DO\Desktop\ASM2_Thầy Đông\DinhVanDong\DinhVanDong\obj\Debug\DinhVanDong.csproj.AssemblyReference.cache
+C:\Users\QUAN DO\Desktop\ASM2_Thầy Đông\DinhVanDong\DinhVanDong\obj\Debug\DinhVanDong.Attendance_Records.resources
+C:\Users\QUAN DO\Desktop\ASM2_Thầy Đông\DinhVanDong\DinhVanDong\obj\Debug\DinhVanDong.Form1.resources
+C:\Users\QUAN DO\Desktop\ASM2_Thầy Đông\DinhVanDong\DinhVanDong\obj\Debug\DinhVanDong.Course.resources
+C:\Users\QUAN DO\Desktop\ASM2_Thầy Đông\DinhVanDong\DinhVanDong\obj\Debug\DinhVanDong.Departments.resources
+C:\Users\QUAN DO\Desktop\ASM2_Thầy Đông\DinhVanDong\DinhVanDong\obj\Debug\DinhVanDong.Instructors.resources
+C:\Users\QUAN DO\Desktop\ASM2_Thầy Đông\DinhVanDong\DinhVanDong\obj\Debug\DinhVanDong.Login.resources
+C:\Users\QUAN DO\Desktop\ASM2_Thầy Đông\DinhVanDong\DinhVanDong\obj\Debug\DinhVanDong.Maincs.resources
+C:\Users\QUAN DO\Desktop\ASM2_Thầy Đông\DinhVanDong\DinhVanDong\obj\Debug\DinhVanDong.Properties.Resources.resources
+C:\Users\QUAN DO\Desktop\ASM2_Thầy Đông\DinhVanDong\DinhVanDong\obj\Debug\DinhVanDong.Students.resources
+C:\Users\QUAN DO\Desktop\ASM2_Thầy Đông\DinhVanDong\DinhVanDong\obj\Debug\DinhVanDong.csproj.GenerateResource.cache
+C:\Users\QUAN DO\Desktop\ASM2_Thầy Đông\DinhVanDong\DinhVanDong\obj\Debug\DinhVanDong.csproj.CoreCompileInputs.cache
+C:\Users\QUAN DO\Desktop\ASM2_Thầy Đông\DinhVanDong\DinhVanDong\obj\Debug\DinhVanDong.exe
+C:\Users\QUAN DO\Desktop\ASM2_Thầy Đông\DinhVanDong\DinhVanDong\obj\Debug\DinhVanDong.pdb
